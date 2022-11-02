@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409178012013",
+    "project_id": "flutter-authentication-a-c11cd",
+    "storage_bucket": "flutter-authentication-a-c11cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409178012013:android:0883490dc42f765a97c264",
+        "android_client_info": {
+          "package_name": "com.helavidasa.firebasedemo.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409178012013-2h3ospc0ltod0phgn9h6qmf5k25hb1ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHe7I5HkmczcPYZWioWZ3Bu95EWOXsSY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409178012013-2h3ospc0ltod0phgn9h6qmf5k25hb1ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
